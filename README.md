@@ -1,6 +1,6 @@
 # Tensorflow estimator tutorial
 
-TensorFLow Sequence-to-Sequence Models for Conversation
+TensorFLow estimator tutorial
 
 ## Requirements
 
